@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model/data outputs (can be recreated)
+models/*.joblib
+models/metrics.json
+data/sepsis_synthetic.csv
+
+# Editors
+.vscode/
+.idea/
