@@ -7,6 +7,7 @@ An educational machine learning project that demonstrates binary classification 
 ## Features
 
 - Synthetic dataset generation
+- Reproducible model training with automated tests
 - Data validation and missing-value imputation
 - Random Forest classification
 - Stratified train-test split
